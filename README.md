@@ -29,3 +29,4 @@ Run the following commands in Termux:
 git clone https://github.com/kvkr21042010-dot/Termux-jarvis.git
 cd Termux-jarvis
 bash setup.sh
+python jarvis1.py
