@@ -27,5 +27,5 @@ Run the following commands in Termux:
 
 ```bash
 git clone https://github.com/kvkr21042010-dot/Termux-jarvis.git
-cd Termux-Jarvis
+cd Termux-jarvis
 bash setup.sh
