@@ -26,6 +26,6 @@ After installing the **Termux:API** app, go to your phone's **Settings > Apps > 
 Run the following commands in Termux:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Termux-Jarvis.git](https://github.com/YOUR_USERNAME/Termux-Jarvis.git)
+git clone https://github.com/kvkr21042010-dot/Termux-jarvis.git
 cd Termux-Jarvis
 bash setup.sh
